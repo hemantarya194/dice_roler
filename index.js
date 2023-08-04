@@ -1,8 +1,5 @@
 var randomNumber1 = Math.floor(Math.random()*6) + 1;
 var randomNumber2 = Math.floor(Math.random()*6) + 1;
-console.log(randomNumber1);
-console.log(randomNumber2);
-
 
 function main () {
     var player_1 = player1(randomNumber1);
