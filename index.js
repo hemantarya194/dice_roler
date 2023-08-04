@@ -10,7 +10,7 @@ function main () {
     var winners = winner()
 }
 
-var players = main()
+var players = main();
 
 function player1 () {
     if (randomNumber1 === 1){
